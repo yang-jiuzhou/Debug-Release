@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Bio-LabChrom.exe" size="3382784">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Bio-LabChrom.exe" size="3420160">
       <assemblyIdentity name="Bio-LabChrom" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>04x6lUHohEQKm81DDdH2aT5FWcoOUPrg6vd3EiGivcU=</dsig:DigestValue>
+        <dsig:DigestValue>iOhKQxnDpUsxAbErv+yXQnKif/9hASDMKmgArCV5KUk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -354,13 +354,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Bio-LabChrom.exe.config" size="1519">
+  <file name="Bio-LabChrom.exe.config" size="1493">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>EAf1bEOSTb0nAHM7bZgjti3amhOvQyH5Sqbz9Hq49gA=</dsig:DigestValue>
+      <dsig:DigestValue>EIWyeFXyMgy1pyuYziBwec0oz3qK9nSvI1QS/SvRSOU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="hblog.ico" size="9662">
